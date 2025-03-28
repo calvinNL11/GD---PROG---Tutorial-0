@@ -11,4 +11,10 @@ Het bijbehorende script staat hier [link naar Launch Cube script](/GD%20-%20PROG
 # Tutorial 1
 
 dit is de uitwerking van de dance
-![tutorial 0](img/2025-03-2810-53-49-ezgif.com-video-to-gif-converter.gif)
+![tutorial 1](img/2025-03-2810-53-49-ezgif.com-video-to-gif-converter.gif)
+
+# Tutorial 2 
+
+uitwerking van animation met movement echt sickkkkk
+
+![tutorial 2](img/2025-03-2814-22-15-ezgif.com-video-to-gif-converter%20(1).gif)
