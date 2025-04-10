@@ -22,3 +22,16 @@ uitwerking van animation met movement echt sickkkkk
 ![tutorial 2](img/2025-03-2814-22-15-ezgif.com-video-to-gif-converter%20(1).gif)
 
 [het script](/GD%20-%20PROG%20-%20Tutorial/Assets/animatie.cs)
+
+Movement [het script](/GD%20-%20PROG%20-%20Tutorial/Assets/movement.cs)
+
+# Tutorial 3
+
+dit is het werk van de cuve ding
+![tutorial 3](img/2025-04-1014-0731-ezgif.com-video-to-gif-converter.gif)
+
+[het script](/GD%20-%20PROG%20-%20Tutorial/Assets/Jump.cs)
+
+
+
+
