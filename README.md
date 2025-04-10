@@ -28,9 +28,9 @@ Movement [het script](/GD%20-%20PROG%20-%20Tutorial/Assets/movement.cs)
 # Tutorial 3
 
 dit is het werk van de cuve ding
-![tutorial 3](img/2025-04-1014-0731-ezgif.com-video-to-gif-converter.gif)
+![tutorial 3](img/2025-04-1014-07-31-ezgif.com-video-to-gif-converter.gif)
 
-[het script](img/2025-04-1014-07-31-ezgif.com-video-to-gif-converter.gif)
+[het script](/GD%20-%20PROG%20-%20Tutorial/Assets/Jump.cs)
 
 
 
