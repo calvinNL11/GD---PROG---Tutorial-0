@@ -33,5 +33,10 @@ dit is het werk van de cuve ding
 [het script](/GD%20-%20PROG%20-%20Tutorial/Assets/Jump.cs)
 
 
+# Tutorial 4 
 
+![tutorial 4](img/2025-04-1612-51-36-ezgif.com-video-to-gif-converter.gif)
+
+[het script](/GD%20-%20PROG%20-%20Tutorial/Assets/PICKUP.cs)
+[het script](/GD%20-%20PROG%20-%20Tutorial/Assets/keepscore.cs)
 
